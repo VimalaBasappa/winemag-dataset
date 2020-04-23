@@ -69,3 +69,4 @@ Download the raw data [here](http://bit.ly/winemag-raw-250k).
 ## License
 
 MIT
+[![Run on Repl.it](https://repl.it/badge/github/activatedgeek/winemag-dataset)](https://repl.it/github/activatedgeek/winemag-dataset)
